@@ -1,0 +1,18 @@
+{
+  "name": "ngl-spammer",
+  "version": "2.0.0",
+  "description": "NGL Spammer using Javascript",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "DavaXploitt - Pemalang Team",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "4.1.2",
+    "delay": "5.0.0",
+    "node-fetch": "2.7.0",
+    "readline-sync": "1.4.10",
+    "spinnies": "0.5.1"
+  }
+}
